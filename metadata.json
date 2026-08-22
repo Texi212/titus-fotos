@@ -1,0 +1,6 @@
+{
+  "name": "Foto Galerie & Cloud",
+  "description": "Elegante Fotogalerie mit Admin-Zugang über Code zum Hochladen und Verwalten von hochauflösenden Bildern.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
